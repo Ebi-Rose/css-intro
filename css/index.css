@@ -5,5 +5,15 @@ h1{
 	text-align: center;
 }
 li{
+	color:green;
+}
+ul li{
 	color:blue;
+}
+.done{
+	text-decoration: line-through;	
+}
+#square{
+	background-color: green;
+	width:40%;
 }
